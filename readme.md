@@ -38,12 +38,12 @@ I would really like to do an entire module on using the command line to issue gi
 - Installing Git
   - Install GitHub Desktop
   - Poshgit
-  - GitHub for Windows
   - cmder
 - Installing the gh node cli
   - Creating a repo
 - Looking up command help
-- Adding the git bin to get a lot of basic Linux commands (ssh, scp, touch, etc.)
+- "The command line is the only place you can run all Git commands -- most of the GUIs only implement some subset of Git functionality for simplicity. If you know how to run the CLI version, you can probably figure out how to run the GUI, while the opposite is not necessarily true." - Scott Chacon, Pro Git
+
 
 ## Module 6: Beyond the Basics
 This would be a grab bag of more in-depth or advanced  concepts. Here we talk about pull requests, submodules, continuous deployment from GH to Azure, perhaps rebasing, cherry picking, stashing, etc. (that may be too much)
