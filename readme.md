@@ -26,6 +26,10 @@ The relative ease of simply doing source control from your IDE. We would show Vi
 
 ## Module 5: GitHub on the Command Line
 I would really like to do an entire module on using the command line to issue git commands and also show how to install the _gh_ module in npm and use it to manage repos, users, etc. This module might be an attempt to encourage otherwise GUI-dependent developers to start to embrace the command line.
+- Focus on flexibility of CLI
+- Can do some things from GUI, but can do all things from CLI
+- "The command line is the only place you can run all Git commands -- most of the GUIs only implement some subset of Git functionality for simplicity. If you know how to run the CLI version, you can probably figure out how to run the GUI, while the opposite is not necessarily true." - Scott Chacon, Pro Git
+
 
 ## Module 6: Beyond the Basics
 This would be a grab bag of more in-depth or advanced  concepts. Here we talk about pull requests, submodules, continuous deployment from GH to Azure, perhaps rebasing, cherry picking, stashing, etc. (that may be too much)
