@@ -16,11 +16,11 @@
 - Microsoft hosts all open source projects on GitHub
 - https://github.com/Microsoft / https://microsoft.github.io/
 
-#### the difference between central and distributed models
+#### The difference between central and distributed models
 
 - Every developer has the entire project at all times, including history
 - Internet connection not needed
-- <Images of remote!>
+- Images of remote!
 - Remote repository somewhere, we have it on GitHub
 
 #### The distinction between git and GitHub
