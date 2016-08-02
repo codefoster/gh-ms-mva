@@ -37,7 +37,8 @@
 - Talk through process of sharing repository, branching is cheap and fast
 - Overview of what issues, PRs are and when to use them
 - Commits are easy to search and diff and lightweight, just series of pointers
-- Time to turn around on a change - reference Stefan's CI/CD slides (slide 3, 4, 9): https://github.box.com/s/qg0nwyagsv72dmnfb5bqqo8ywprp8avf
+- Time to turn around on a change - reference Stefan's CI/CD slides (slide 3, 4, 9)
+- https://github.box.com/s/qg0nwyagsv72dmnfb5bqqo8ywprp8avf
 
 #### GitHub and Open Source
 
