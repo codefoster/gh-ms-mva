@@ -176,6 +176,12 @@ This would be a grab bag of more in-depth or advanced  concepts. Here we talk ab
 - Demo seeing configs
 - Show image of levels of configurations
 - Demo setting some configs
+- `git config --global user.name "First Last"
+- `git config --global user.email "you@email.com"
+- For Windows: `git config --global core.autocrlf true`
+- For Mac/Linx: `git config --global core.autocrlf input`
+- `git config --global push.default simple`
+
 
 #### Danger Zone: Changing History
 
