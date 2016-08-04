@@ -98,6 +98,9 @@
 #### Introducing GitHub Desktop
 
 #### Repositories
+- Creating
+- Cloning
+- Adding and Scanning 
 
 #### Branching and Changes
 
