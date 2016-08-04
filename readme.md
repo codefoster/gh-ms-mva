@@ -94,19 +94,42 @@
 - Show workflow again
 
 ## Module 3: GitHub Desktop
-All the details on installing and using Desktop, launching it from the browser, etc.
+
+#### Introducing GitHub Desktop
+
+#### Repositories
+
+#### Branching and Changes
+
+#### Other Desktop Tools
+- Tortoise Git
+- SourceTree
+- Git Extensions
+- SmartGit
+- git-cola
+- GitEye
+- Git Kraken
 
 ## Module 4: GitHub Integrations with Visual Studio
-The relative ease of simply doing source control from your IDE. We would show Visual Studio as well as Visual Studio Code.
-- Visual Studio 2015
-  - Developer Assistant
-  - Visual Studio Tools for Git
-  - GitHub Extension for Visual Studio
-    - Installation
-    - Creating a repo
-    - A common scenario: a fork, a mod, and a PR
-- Visual Studio Code
+#### Bing Developer Assistant
+#### GitHub Extension for Visual Studio
+#### Visual Studio Code
+- Changes
+- Diffs
+  - side-by-side and inline
+  - stage selected lines
+- Push, pull, and sync
+- Branches
+- Git Output
+- Extensions
 
+#### Visual Studio Extensions
+- Annotator
+- Git History
+- Share Code
+- Open in GitHub
+- Partial Diff
+- gitignore
 
 ## Module 5: GitHub on the Command Line
 
@@ -141,6 +164,8 @@ The relative ease of simply doing source control from your IDE. We would show Vi
 
 ## Module 6: Beyond the Basics
 This would be a grab bag of more in-depth or advanced  concepts. Here we talk about pull requests, submodules, continuous deployment from GH to Azure, perhaps rebasing, cherry picking, stashing, etc. (that may be too much)
+
+#### GH Pages
 
 #### Multiple remotes
 
