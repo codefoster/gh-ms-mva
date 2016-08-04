@@ -169,18 +169,22 @@
 This would be a grab bag of more in-depth or advanced  concepts. Here we talk about pull requests, submodules, continuous deployment from GH to Azure, perhaps rebasing, cherry picking, stashing, etc. (that may be too much)
 
 #### GH Pages
+- In same repository, create `gh-pages` branch
+- Show [ghpages website](https://pages.github.com/)
+- GitHub looks for an `index.html` file and automatically displays it at `USERNAME.github.io/REPO-NAME`
 
-#### Multiple remotes
-
-#### Remote tracking branches
-
-#### Combination commands
 
 #### git configs
 
 - Demo seeing configs
 - Show image of levels of configurations
 - Demo setting some configs
+- `git config --global user.name "First Last"
+- `git config --global user.email "you@email.com"
+- For Windows: `git config --global core.autocrlf true`
+- For Mac/Linx: `git config --global core.autocrlf input`
+- `git config --global push.default simple`
+
 
 #### Danger Zone: Changing History
 
@@ -192,3 +196,14 @@ This would be a grab bag of more in-depth or advanced  concepts. Here we talk ab
   - reset
   - commit amend
 - `git reflog`  
+
+#### Multiple remotes
+
+#### Remote tracking branches
+- `git branch -al` 
+- Read only copies
+- To access and edit those branches, use `git checkout` normally
+- Deleting branches locally and pushing doesn't delete branches on the remote
+
+#### Combination commands
+- `git pull` = `git fetch` + `git merge`
